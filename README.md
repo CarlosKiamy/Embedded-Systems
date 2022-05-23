@@ -16,9 +16,6 @@ This particular design was chosen since, at the time of ordering, the BOM was co
 Tilt 0 degrees --> Output: All 4 LEDs light up permanently
 Tilt 10 degrees --> Output:0, LED1 and LED2 are permanently on, all other LEDs off
 Tilt 20 degrees --> Output: LED0 and LED1 are permanently lit, all other LEDs off
-Tilt 30 degrees --> Output: LED0 lights up permanently, all other LEDs offTilt 0 degrees --> Output: All 4 LEDs light up permanently
-Tilt 10 degrees --> Output:0, LED1 and LED2 are permanently on, all other LEDs off
-Tilt 20 degrees --> Output: LED0 and LED1 are permanently lit, all other LEDs off
 Tilt 30 degrees --> Output: LED0 lights up permanently, all other LEDs off
 ```
 
