@@ -27,6 +27,7 @@ Physical setup:
 
 ![pinout](https://github.com/CarlosKiamy/Embedded-Systems/blob/main/img/proto.png)
 
+An ST-Link was used for in-circuit debugging.
 For data verification, the SWO pin was used in order to use the printf function. In order to use printf, the ITM console must be setup first.
 ```
 int _write(int file, char*ptr, int len){
